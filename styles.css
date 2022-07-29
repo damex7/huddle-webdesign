@@ -1,4 +1,5 @@
 /*nav-styles*/
+
 .nav-wrapper{
     display: flex;
     padding: 50px;
@@ -15,8 +16,7 @@
 .container{
     background-color: indigo;
     color: white;
-    
-  
+    background-image: url(./images/bg-desktop.svg);
 }
 
 .container-img-background {
@@ -38,6 +38,10 @@
 .profile-img-wrapper{
     width: 100%;
     padding-left: 50px;
+}
+
+.profile-img-wrapper img{
+    width: 100%;
 }
 
 .profile-content-wrapper{
@@ -121,8 +125,20 @@
 
 
 
+@media screen and (min-width: 500px) {
+    .container{
+        background-repeat: no-repeat;
+        background-size: cover;
+        background-image: url(./images/bg-mobile.svg);
+    }
+}
 
-
+/* @media screen and (min-width: 500px) {
+    .container{
+        background-color: green;
+        background-image: url(./images/bg-mobile.svg);
+    }
+} */
 
 
 
