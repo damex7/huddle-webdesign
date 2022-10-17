@@ -133,70 +133,22 @@
         color: white;
     }
     
-    .fa{
-        padding: 5px;
-        font-size: 40px;
-        width: 30px;
-        height: 30px;
-        text-align: center;
-        border: 50%;
-        border-style: solid;
-        border-radius: 50%;
-        border-color: white;
-        border-width: 0.52mm;
-        text-decoration: none;
-        display: inline-flex;
-        align-items: center;
-        justify-content: center;
-        margin-bottom: 30px;
-        transition: background 0.2s;
-        margin-left: opx;
-    }
-    
-    .fa:hover{
-        background:  magenta;
-    }
-    
-    .fa-facebook{
-        color:white;
-    }
-    
-    .fa-twitter{
-        color: white;
-    }
-    
-    .fa-instagram{
-        color: white;
-    }
-
-    .social-media-icon{
-        display:flex;
-        flex-direction: column-reverse;
-    
-    
-    }
-    
-    .social-media-icon-wrapper{
-        margin-left: 350px;
-    }
-}
+  
 
 @media screen and (min-width : 1440px) {
-    .container{
-        background-repeat: no-repeat;
-        background-size: cover;
-        background-image: url(./images/bg-desktop.svg);
-    }
+.container{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(./images/bg-desktop.svg);
+}
 
-    .container-img-background {
-        height: 100%;
-        width: 100%;
-        background-size: cover;
-        background-position: center;
-        background-repeat: no-repeat;
-        
-    
-    }
+.container-img-background {
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
     
     
     .two-column-wrapper{
@@ -247,16 +199,8 @@
         color: white;
     }
     
-    .social-media-icon{
-        display:flex;
-        flex-direction: column-reverse;
     
     
-    }
-    
-    .social-media-icon-wrapper{
-        margin-left: 1080px;
-    }
 }
 
 
