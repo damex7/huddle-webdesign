@@ -53,8 +53,9 @@
 }
 
 .social-media-icon{
-    display:flex;
-    flex-direction: column-reverse;
+    display:inline-flex;
+    justify-content: space-between;
+    
 
 
 }
