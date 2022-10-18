@@ -14,7 +14,7 @@
 }
 
 .container{
-    background-color: indigo;
+    background-color:  hsl(257, 40%, 49%);
     color: white;
     background-image: url(./images/bg-desktop.svg);
 }
@@ -154,6 +154,7 @@
     color: magenta;
     margin-left: 20px;
     align-content: center;
+    justify-self: center;
     
 }
     
