@@ -71,14 +71,14 @@
 
 .icon{
     border: 0.5px solid white;
-    border-radius: 5px;
+    border-radius: 50px;
     text-align: center;
-    padding-left: 5px;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding: 20px 20px 20px 20px;
+    align-items: center;
+    margin-right: 10px;
 }
 
-.social-media-icon,a :hover{
+.icon :hover{
     color: darkmagenta;
 }
 
