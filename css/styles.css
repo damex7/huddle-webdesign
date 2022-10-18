@@ -152,6 +152,8 @@
     cursor: pointer;
     text-decoration: white;
     color: magenta;
+    margin-left: 20px;
+    align-content: center;
     
 }
     
@@ -161,8 +163,8 @@
 }
 
 .social-media-icon-wrapper{
-    margin-left: 100px;
-    padding-bottom: 50px;
+    margin-left: 90px;
+    padding-top: 20px;
 }
 
 .social-media-icon{
