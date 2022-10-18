@@ -67,7 +67,15 @@
 .social-media-icon,a{
     color: white;
     padding-right: 20px;
+}
 
+.icon{
+    border: 0.5px solid white;
+    border-radius: 5px;
+    text-align: center;
+    padding-left: 5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 .social-media-icon,a :hover{
