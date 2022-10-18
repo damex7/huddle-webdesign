@@ -192,7 +192,7 @@
     text-decoration: white;
     color: magenta;
     margin-left: 0%;
-    }
+}
     
 .button:hover{
     background: magenta;
@@ -201,4 +201,5 @@
     
     
     
+}
 }
