@@ -16,7 +16,7 @@
 .container{
     background-color:  hsl(257, 40%, 49%);
     color: white;
-    background-image: url(./images/bg-desktop.svg);
+    background-image: url(/images/bg-desktop.svg);
 }
 
 .container-img-background {
@@ -199,7 +199,7 @@
 .container{
     background-repeat: no-repeat;
     background-size: cover;
-    background-image: url(./images/bg-desktop.svg);
+    background-image: url(/images/bg-desktop.svg);
 }
 
 .container-img-background {
