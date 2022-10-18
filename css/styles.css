@@ -132,7 +132,7 @@
     background: magenta;
     color: white;
 }
-    
+} 
   
 
 @media screen and (min-width : 1440px) {
@@ -198,8 +198,5 @@
     background: magenta;
     color: white;
 }
-    
-    
-    
-}
+
 }
