@@ -52,8 +52,27 @@
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
+.social-media-icon-wrapper{
+    margin-left: 1200px;
+    padding-bottom: 50px;
+}
+
+.social-media-icon{
+    display: inline-flex;
+    justify-content: space-between;
+    
+}
 
 
+.social-media-icon,a{
+    color: white;
+    padding-right: 20px;
+
+}
+
+.social-media-icon,a :hover{
+    color: darkmagenta;
+}
 
 
 .button{
