@@ -17,17 +17,6 @@
     background-color:  hsl(257, 40%, 49%);
 }
 
-.container-img-background {
-    height: 100%;
-    width: 100%;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    
-
-}
-
-
 .two-column-wrapper{
     display: grid;
     grid-template-columns: 1fr 1fr ;
@@ -202,15 +191,6 @@
     background-image: url(/images/bg-desktop.svg);
 }
 
-.container-img-background {
-    height: 100%;
-    width: 100%;
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-}
-    
-    
 .two-column-wrapper{
     display: grid;
     grid-template-columns: 1fr 1fr ;
