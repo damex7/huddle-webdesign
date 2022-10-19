@@ -1,5 +1,6 @@
 body{
     background-color: hsl(257, 40%, 49%);
+    background-image: url("../images/bg-desktop.svg");
 }
 /*nav-styles*/
 
@@ -14,11 +15,6 @@ body{
     font-family:  sans-serif;
     font-weight: 400,600;
     font-size: 40px;
-}
-
-body, .container{
-    background-image: url("../images/bg-desktop.svg");
-    background-size: cover;
 }
 
 .two-column-wrapper{
@@ -103,9 +99,6 @@ body, .container{
 
 
 @media screen and (min-width: 375px) {
-.container{
-    background-repeat: no-repeat;
-}
 
 .two-column-wrapper{
     display: block;
@@ -188,9 +181,6 @@ body, .container{
   
 
 @media screen and (min-width : 1440px) {
-.container{
-    background-image: url("/images/bg-desktop.svg");
-}
 
 .two-column-wrapper{
     display: grid;
