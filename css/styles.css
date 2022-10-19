@@ -14,9 +14,7 @@
 }
 
 .container{
-    background-image: url("/images/bg-desktop.svg");
     background-color:  hsl(257, 40%, 49%);
-    color: white;
 }
 
 .container-img-background {
@@ -49,7 +47,9 @@
     padding-top: 50px;
     padding-right: 23.2%;
     padding-left: 80px;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-weight: 400;
 }
 
 .social-media-icon-wrapper{
