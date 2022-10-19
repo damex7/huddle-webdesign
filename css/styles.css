@@ -15,6 +15,9 @@
 
 .container{
     background-color:  hsl(257, 40%, 49%);
+    background-image: url("/images/bg-desktop.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .two-column-wrapper{
@@ -93,6 +96,7 @@
 .button:hover{
     background: hsl(300, 69%, 71%);
     color: white;
+    transition: ease-in-out;
 }
 
 
