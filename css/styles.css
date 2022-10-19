@@ -17,7 +17,7 @@ body{
 }
 
 body, .container{
-    background-image: url("/images/bg-desktop.svg");
+    background-image: url("../images/bg-desktop.svg");
     background-size: cover;
 }
 
@@ -104,7 +104,7 @@ body, .container{
 
 @media screen and (min-width: 375px) {
 .container{
-    background-image: url(/images/bg-desktop.svg);
+    background-repeat: no-repeat;
 }
 
 .two-column-wrapper{
