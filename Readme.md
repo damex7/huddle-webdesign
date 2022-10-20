@@ -29,7 +29,7 @@ images\huddle-webdesign 2 mobile view.jpeg
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://github.com/damex7/website-h/blob/master/Readme.md)
+- Live Site URL: [https://github.com/damex7/website-h/blob/master/Readme.md]
 
 ## My process
  I put the huddle logo in first before starting with the main parts of the webpage then put the image in and, the text in using grid-column, so they can stay side by side and then I used font awesome to get the social media icons thereafter 
