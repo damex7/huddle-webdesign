@@ -22,8 +22,10 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 
 ### Screenshot
-
-
+images\huddle-webdesign 1 desktop view active.jpeg
+images\huddle-webdesign 1 desktop view.jpeg
+images\huddle-webdesign 2 mobile view active.jpeg
+images\huddle-webdesign 2 mobile view.jpeg
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
