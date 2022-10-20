@@ -45,5 +45,5 @@ I learnt about how i can make images backgrounds after giving a background-color
 in website using fontawesome and how to link them with social media using social media icons and links. 
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@damex7    ](https://www.frontendmentor.io/profile/damex7)
+- Twitter - [@Damex_7](https://www.twitter.com/Damex_7)
