@@ -20,6 +20,7 @@ body{
     flex-wrap: wrap;
     gap:10px;
     padding: 20px;
+    justify-content: center;
 }
 
 /* .profile-img-wrapper img{
@@ -52,11 +53,8 @@ p{
 
 .social-media-icon{
     display: flex;
-    gap: 20px;
-    position: absolute;
-    bottom: 0;
-    right: 100px;
-    padding: 10px;
+    flex-direction: row-reverse;
+    gap: 10px;
 }
 
 .social-media-icon a i{
